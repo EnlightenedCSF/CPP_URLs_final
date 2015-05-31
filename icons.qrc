@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>arrow.jpg</file>
+        <file>edit_clear.png</file>
+        <file>open.png</file>
+        <file>plus.png</file>
+        <file>save.png</file>
+    </qresource>
+</RCC>
